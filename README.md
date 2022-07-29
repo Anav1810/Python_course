@@ -1,2 +1,2 @@
 # Python_course
-Python class repository
+Python class sessions
