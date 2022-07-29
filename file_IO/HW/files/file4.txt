@@ -1,0 +1,1 @@
+This code is to NM_START MY_CODE NM_END read the data. After reading the data, make segments of the file NM_START MY_DATA and fill into some data structure. Data Structure should be accessible very fast and should support multi thread functionality in reading. This DS will be used in making the response.NM_START MY_RESP
