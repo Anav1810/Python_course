@@ -1,2 +1,2 @@
 # Python_course
-Python class sessions
+Python course sessions
