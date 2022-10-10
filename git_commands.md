@@ -1,4 +1,5 @@
 git --version
+
 touch index.html
 
 # To initialize a folder as git folder
